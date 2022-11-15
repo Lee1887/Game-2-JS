@@ -22,10 +22,14 @@ Benutzte Funktionen sind:
 -Timeout
 -switch case
 
+Start des Spiels
 ![Start des Spiels](https://user-images.githubusercontent.com/106076920/201926870-344615f2-d4f4-4850-86ac-cf067f175de4.jpeg)
 
+Schießen und Explosionen
 ![Schießen](https://user-images.githubusercontent.com/106076920/201926888-b340d13c-d857-4bfe-975b-74ca1cdec048.jpeg)
 
+Ende des Spiels-Gewonnen!
 ![Gewonnen](https://user-images.githubusercontent.com/106076920/201926900-56d1d805-ee6f-479e-9c57-b3a5968f6920.jpeg)
 
+Ende des Spiels-Verloren!
 ![Verloren](https://user-images.githubusercontent.com/106076920/201926913-9bde27a9-6053-466a-a4c0-46c316c22c07.jpeg)
